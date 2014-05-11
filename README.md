@@ -10,3 +10,5 @@ Normal text
 <h3>Bigger text</h3>
 
 <h2>Huge text</h2>
+
+![Test image with url](http://i.imgur.com/U82Xd5d.png)
